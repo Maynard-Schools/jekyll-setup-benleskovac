@@ -1,5 +1,8 @@
 # jekyll-simple
 
+## Public Link
+https://maynard-schools.github.io/jekyll-setup-benleskovac/
+
 ## simple
 simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
 
