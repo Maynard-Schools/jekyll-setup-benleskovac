@@ -3,17 +3,13 @@
 ## Public Link
 https://maynard-schools.github.io/jekyll-setup-benleskovac/
 
-## simple
-simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
+## About the project
 
-Especially for those who writes in both Chinese and English. The font-type setting looks really good when writers use Chinese mixed with English.
+This project is for my high school web design class. It is the fourth project we have done so far, but it is the first one we have done that involved looking and editing code. It is a fairly interesting project and I am glad we did it.
 
-Supposedly, this could work with Japanese as well but never had a chance to try.
 
-## Story behind this theme
+## Work Done
 
-It has been long that using font with Chinese in web was a tedious and time-consuming work. It would be almost impossible to make different OS or devices to look the same.
+Here is a basic overview of the work that I accomplished in this project:
 
-iOS 9 has pulished some new fonts in Chinese and I decided to make one theme that looks good on iOS devices, at the same time, making it acceptable on computers using other fonts.
-
-So mobile goes first, then the macOS.
+I edited the 6 files that was required in the project, including adding detail using css, creating a description, adding a header and more. I learned how to add a subpage to a web file and I added one in my project. Finally I learned the basics of what html code and css code look like, as well as the basics of what css templates look like, and how to read and edit them.
