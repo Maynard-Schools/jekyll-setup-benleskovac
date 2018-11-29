@@ -10,3 +10,4 @@ description: This is the first project I have done for my high school web design
 The homepage of Youtube is constantly changing, if you’re signed in it would recommend different videos for you to watch. 
 
 ![First Slide](https://raw.githubusercontent.com/Maynard-Schools/jekyll-setup-benleskovac/master/assets/img/webdev1.jpg)
+![Second Slide](https://raw.githubusercontent.com/Maynard-Schools/jekyll-setup-benleskovac/master/assets/img/webdev2.jpg)
